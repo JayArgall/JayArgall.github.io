@@ -26,7 +26,7 @@ li {
 
 li a , .dropbtn{
 	display: block;
-	color: white;
+	color: #ffffff;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -104,10 +104,8 @@ li.dropdown {
 
 .main a:hover, a:active {
 	color: #80ded9;
-	
 }
 
-/* footer */
 /* footer */
 
 .footer {
